@@ -28,8 +28,7 @@ This is some kind of *old fashionned* `systemV` service, it is also possible to 
 ```sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel```
 
 ## CREDITS
-
-thanks to the contributors whom made the how-to and the libraries above.
+Thanks to the contributors whom made the how-to and the libraries above.
 And https://github.com/mxgxw/MFRC522-python
 
 
